@@ -18,7 +18,7 @@ public class Human implements Actions {
 
     @Override
     public void jump() {
-        System.out.println("Человек " + this.name + " пробежал " + this.getJumpHeight());
+        System.out.println("Человек " + this.name + " прыгнул " + this.getJumpHeight());
     }
 
     @Override

@@ -21,11 +21,11 @@ public class Wall extends Barrier {
         actions.jump();
 
         if (getHeight() <= actions.getJumpHeight()) {
-            System.out.println("Прынул успешно!");
+            System.out.println("Прыгнул успешно!");
 
             return true;
         } else {
-            System.out.println("Не смог прыгнуть!");
+            System.out.println("Не смог преодолеть!");
 
             return false;
         }

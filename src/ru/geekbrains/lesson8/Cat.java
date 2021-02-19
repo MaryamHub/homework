@@ -18,7 +18,7 @@ public class Cat implements Actions {
 
     @Override
     public void jump() {
-        System.out.println("Кот " + this.name + " пробежал " + this.getJumpHeight());
+        System.out.println("Кот " + this.name + " прыгнул " + this.getJumpHeight());
     }
 
     @Override

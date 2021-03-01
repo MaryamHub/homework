@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson11;
+package ru.geekbrains.lesson11.Part3;
 
 class Apple extends Fruit {
 

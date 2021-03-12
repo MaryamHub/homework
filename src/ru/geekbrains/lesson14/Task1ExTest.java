@@ -1,5 +1,8 @@
 package ru.geekbrains.lesson14;
 
+import org.junit.Before;
+import org.junit.Test;
+
 public class Task1ExTest {
     private Task1 task1;
 
